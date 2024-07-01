@@ -1,8 +1,8 @@
 {
-  "name": "next-firebase-starter",
+  "name": "todo-list",
   "private": true,
   "version": "1.0.0",
-  "author": "Trinity Christiana",
+  "author": "Daun",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -18,9 +18,6 @@
     ]
   },
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^6.5.2",
-    "@fortawesome/free-brands-svg-icons": "^6.5.2",
-    "@fortawesome/free-regular-svg-icons": "^6.5.2",
     "@fortawesome/free-solid-svg-icons": "^6.5.2",
     "@fortawesome/react-fontawesome": "^0.2.2",
     "axios": "^0.21.1",
